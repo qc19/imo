@@ -1,0 +1,9 @@
+[submodule "TJIMO-2017"]
+	path = TJIMO-2017
+	url = https://github.com/CometsTech/TJIMO-2017.git
+[submodule "TJIMO-2016"]
+	path = TJIMO-2016
+	url = https://github.com/aadityasingh/TJIMO-2016.git
+[submodule "TJIMO-2015"]
+	path = TJIMO-2015
+	url = https://github.com/ubuntor/TJIMO-2015.git
