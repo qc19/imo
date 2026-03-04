@@ -10,3 +10,15 @@
 [submodule "TJIMO-2014"]
 	path = TJIMO-2014
 	url = https://github.com/alwayswimmin/TJIMO-2014.git
+[submodule "awesome-math-books"]
+	path = awesome-math-books
+	url = https://github.com/rossant/awesome-math.git
+[submodule "Awesome_Math_Books_valeman"]
+	path = Awesome_Math_Books_valeman
+	url = https://github.com/valeman/Awesome_Math_Books.git
+[submodule "linalg/math51-solns"]
+	path = linalg/math51-solns
+	url = https://github.com/sreeprasad/math51Solutions.git
+[submodule "linalg/MATH51"]
+	path = linalg/MATH51
+	url = https://github.com/tonybruess/MATH51.git
